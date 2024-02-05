@@ -18,8 +18,9 @@ This is an example of the 'Game of Life' implemented in JavaScript. To play the 
 
 ##Features
 
--Randomized initial grid with a 10% chance of a cell being alive.
--Updates grid based on Conway's Game of Life rules.
+- Randomized initial grid with a 10% chance of a cell being alive.
+
+- Updates grid based on Conway's Game of Life rules.
 
 ##Contributing
 
