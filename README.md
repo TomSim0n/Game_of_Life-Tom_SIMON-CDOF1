@@ -9,7 +9,7 @@ This is an example of the 'Game of Life' implemented in JavaScript. To play the 
    ```bash
    git clone https://github.com/your-username/game-of-life.git
 
-2. with node.js use the following line:
+2. With node.js use the following line:
     ```bash
    node main.js
 
